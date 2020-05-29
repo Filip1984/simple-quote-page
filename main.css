@@ -9,37 +9,37 @@ body {
   height: 100vh;
   background: url('assets/freedom.jpg') no-repeat center center fixed;
   background-size: cover;
-  font-family: FreeMono, monospace;
+  font-family: Arial serif;
 }
 
 #container {
   width: 100%;
-  
+
 }
 
 #motto {
   width: 90%;
   height: 36%;
   margin: auto;
-  margin-top: 5%;
+  margin-top: 100px;
 }
 
 #name {
   width: 100%;
-  margin-top: 2%;
+  margin-top: 45px;
 }
 
 p {
-  font-size: 40px;
+  font-size: 38px;
   text-transform: uppercase;
   text-align: center;
-  line-height: 1.9;
-  
- 
+  line-height: 1.6;
+  color: black;
+  opacity: 0.8;
 }
 
 .jean {
-  font-size: 16px;
+  font-size: 20px;
   text-transform: none;
   font-style: italic;
 }
