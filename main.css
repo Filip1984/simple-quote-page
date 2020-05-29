@@ -9,7 +9,7 @@ body {
   height: 100vh;
   background: url('assets/freedom.jpg') no-repeat center center fixed;
   background-size: cover;
-  font-family: Arial serif;
+  font-family: Times, Times New Roman, serif;
 }
 
 #container {
@@ -39,7 +39,7 @@ p {
 }
 
 .jean {
-  font-size: 20px;
+  font-size: 19px;
   text-transform: none;
   font-style: italic;
 }
