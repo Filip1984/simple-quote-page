@@ -68,7 +68,7 @@ p {
 
   #motto {
     width: 90%;
-    margin-top: 0;
+    margin-top: 2px;
   }
 
   #name {
@@ -76,7 +76,7 @@ p {
   }
 
   p {
-    font-size: 34px
+    font-size: 30px
   }
   
 }
@@ -89,16 +89,16 @@ p {
 
   #motto {
     width: 90%;
-    margin-top: 0;
+    margin-top: 2px;
   }
 
   #name {
     width: 100%;
-    
+    margin-top: 4px;
   }
 
   p {
-    font-size: 30px;
+    font-size: 28px;
   }
   
 }
@@ -111,15 +111,16 @@ p {
 
   #motto {
     width: 100%;
-    margin-top: 0;
+    margin-top: 2px;
   }
 
-  #menu {
+  #name {
     width: 100%;
+    margin-top: 2px;
   }
 
   p {
-    font-size: 26px;
+    font-size: 20px;
   }
 
 }
@@ -132,15 +133,16 @@ p {
 
   #motto {
     width: 100%;
-    margin-top: 0;
+    margin-top: 2px;
   }
 
   #name {
     width: 100%;
+    margin-top: 2px;
   }
   
   p{
-    font-size: 24px;
+    font-size: 20px;
   }
 
   .jean {
@@ -148,4 +150,3 @@ p {
   }
   
 }
-
